@@ -33,4 +33,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-Assets/ADG_Textures/
+/Assets/Standard Assets/
+/Assets/SampleScenes/
+/Assets/Prefabs/StarSparrow/
